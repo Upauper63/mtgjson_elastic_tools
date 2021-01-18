@@ -1,0 +1,13 @@
+chromedriver.exe
+debug.log
+KLR.json
+KLR-memo_get_query.txt
+KLR-memo_post_query.txt
+memo.txt
+memo_en.txt
+memo_get_query.txt
+memo_post_query.txt
+.ipynb_checkpoints/json_to_elastic_historic_check-checkpoint.ipynb
+.ipynb_checkpoints/json_to_elastic_historic-checkpoint.ipynb
+.ipynb_checkpoints/mtg_card_finder-checkpoint.ipynb
+.ipynb_checkpoints/name_ja_to_en_translator-checkpoint.ipynb
